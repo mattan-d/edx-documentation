@@ -28,22 +28,26 @@ For more information about enrollment tracks, see :ref:`Enrollment Tracks`.
 Enrolling in or Upgrading to the Verified Track
 ************************************************
 
-If you pay for the verified track for courses in a program, you are enrolled
-directly in the verified track for these courses, and can earn a certificate
-when you pass the courses with the required grade.
+Being in the :ref:`Verified track<SFD Verified Track>` of a course means that
+you are eligible to receive a certificate when you pass the course with a
+required grade.
 
-.. note:: In some programs, courses offer multiple sessions to select from, and
-   the ability to change between sessions. For these courses, on the **Courses**
-   and **Programs** pages of your dashboard, after you enroll in the course, you
-   have options to select a session, change to a different session, or leave a
-   session. You must select a session before you can access the course.
+Enrolling in the verified track requires that you pay for the :ref:`verified
+certificate<SFD Verified Certificates>` and also that you  :ref:`verify your
+identity<SFD Verify Your Identity>` using a webcam and a photo ID.
 
-   For more information about course sessions, see :ref:`Course Sessions`.
+You can enroll in the verified track of a course in two ways.
 
-If you enroll in the audit track for a course and decide later to pursue a
-verified certificate, you can upgrade to the verified track at any time, until
-the deadline for upgrading has passed. The deadline for upgrading to the
-verified track is usually about two weeks after the course start date.
+* You enroll directly in the verified track of the course, if you have not yet
+  enrolled in the course.
+
+* You upgrade to the verified track, if you are already enrolled in the audit
+  track for the course.
+
+  If you are enrolled in the audit track for a course, you can upgrade to the
+  verified track at any time, until the deadline for upgrading has passed. The
+  deadline for upgrading to the verified track is usually about two weeks
+  after the course start date.
 
 
 .. contents::
@@ -108,6 +112,36 @@ After you submit your payment, you can view information about that payment at
 any time. For more information, see :ref:`View Order History`.
 
 For more information about enrollment tracks, see :ref:`Enrollment Tracks`.
+
+
+
+.. _SFD_Pursue Program Certificate:
+
+********************************
+Pursuing a Program Certificate   
+********************************
+
+To pursue a program certificate, you enroll in, or upgrade to, the
+:ref:`Verified track<SFD Verified Track>` for each course in the program. You
+earn the program certificate only if you earn a verified certificate for each
+course in the program.
+
+There are many options if you want to pursue a program certificate.
+
+* If you are not yet enrolled in any of the program's courses:
+  - Purchase the verified track for each of the program's courses separately;
+  - Purchase the verified track for all of the program's courses all at once.
+
+* If you are already in the audit track of a course in the program:
+  - Upgrade to the verified track for each course in the program separately;
+  - Purchase the verified track for all courses in the program at once.
+
+* If you are already in the verified track of one or more courses in the
+  program:
+  - purchase the verified track for each remaining course separately;
+  - purchase the verified track for all remaining courses at once.
+
+
 
 
 ******************************

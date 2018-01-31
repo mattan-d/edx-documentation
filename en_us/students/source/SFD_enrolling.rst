@@ -432,8 +432,8 @@ To pursue a verified certificate in a course, follow these steps.
 Enroll in a Program
 ===================
 
-To enroll in a :ref:`program<About Programs>`, enroll in any course that is
-part of that program. You do not need to complete any additional steps.
+There is no formal step to enroll in a :ref:`program<About Programs>`. You join
+a program simply by enrolling in any course that is part of that program.
 
 After you enroll in any course that is part of a program, that program is
 listed on the **Programs** page on your learner dashboard. Select the card for
