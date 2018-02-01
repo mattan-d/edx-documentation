@@ -7,10 +7,10 @@
 Pursuing Certificates
 ####################################
 
-You can earn a certificate for a course by upgrading to the verified track in a
-course, and passing the course. To earn a certificate for a program, you must
-upgrade to the verified track for all the courses in the program, and pass all
-the courses.
+You can earn a course certificate by upgrading to the verified track in a
+course, and passing the course with the required grade. To earn a certificate
+for a program, you must upgrade to the verified track for all the courses in
+the program, and pass all the courses in the program with the required grades.
 
 This topic describes how to enroll in or upgrade to the verified track for a
 course or program, and how to verify your identify for certificates.
@@ -28,7 +28,7 @@ For more information about enrollment tracks, see :ref:`Enrollment Tracks`.
 Enrolling in or Upgrading to the Verified Track
 ************************************************
 
-Being in the :ref:`Verified track<SFD Verified Track>` of a course means that
+Being in the :ref:`verified track<SFD Verified Track>` of a course means that
 you are eligible to receive a certificate when you pass the course with a
 required grade.
 
