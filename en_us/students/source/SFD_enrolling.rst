@@ -225,8 +225,9 @@ Identity>` using a webcam and a photo ID.
 
 For more information about enrolling in the verified track for a course, see
 :ref:`Enroll in the Verified Track` or :ref:`SFD Change to the Verified Track`.
-For information about certificates, see :ref:`Certificates` or `Verified
-Certificates`_.
+
+For information about pursuing certificates, see :ref:`SFD_Pursue Program
+Certificate`, :ref:`Certificates`, or `Verified Certificates`_.
 
 
 .. _About Programs:

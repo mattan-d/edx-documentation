@@ -185,7 +185,7 @@ follow these steps.
 Upgrade to the Verified Track
 ===============================
 
-Upgrading to the verified track requires two tasks.
+Upgrading to the :ref:`verified track<SFD Verified Track>` requires two tasks.
 
 *  You pay to upgrade to the verified track.
 *  You complete the ID verification process using a webcam and a photo ID that
@@ -224,7 +224,7 @@ To pursue a program certificate, you enroll in, or upgrade to, the
 earn the program certificate only if you earn a verified certificate for each
 course in the program.
 
-There are many options if you want to pursue a program certificate.
+There are several paths you can take to pursue a program certificate.
 
 * If you are not yet enrolled in any of the program's courses:
   - Purchase the verified track for each of the program's courses separately;
@@ -236,8 +236,8 @@ There are many options if you want to pursue a program certificate.
 
 * If you are already in the verified track of one or more courses in the
   program:
-  - purchase the verified track for each remaining course separately;
-  - purchase the verified track for all remaining courses at once.
+  - Purchase the verified track for each remaining course separately;
+  - Purchase the verified track for all remaining courses at once.
 
 
 ******************************
