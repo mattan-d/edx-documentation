@@ -11,8 +11,8 @@ This topic provides basic information about course and program certificates,
 and describes what you need to do to pursue a certificate, including verifying
 your identity on edX and making certificate payments.
 
-For information about accessing a course certificate that you have earned,
-see :ref:`SFD Receiving a Certificate`.
+For information about accessing certificates that you have earned, see
+:ref:`SFD Receiving a Certificate`.
 
 .. contents::
   :local:
@@ -220,7 +220,7 @@ Pursuing a Program Certificate
 ********************************
 
 To pursue a program certificate, you enroll in, or upgrade to, the
-:ref:`Verified track<SFD Verified Track>` for each course in the program. You
+:ref:`verified track<SFD Verified Track>` for each course in the program. You
 earn the program certificate only if you earn a verified certificate for each
 course in the program.
 
